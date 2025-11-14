@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Amromoussa2211/Amromoussa2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>Building advanced automation frameworks using Playwright, Selenium, and API testing tools. I also focus on improving CI/CD pipelines using GitHub Actions.<br><br>🤝 I’m looking to collaborate on<br>Automation frameworks, testing strategy improvements, Playwright projects, mobile automation using Appium, and QA best practices for scalable systems.<br><br>🧠 I’m looking for help with<br>Mastering advanced DevOps practices, performance testing, and improving large-scale test architecture.<br><br>🌱 I’m currently learning<br>Advanced Playwright techniques, Appium for Flutter apps, Docker integration with automation frameworks, and improving test reliability in CI environments.<br><br>💬 Ask me about<br>Automation testing, Playwright, Selenium, API testing, CI/CD pipelines, GitHub Actions, debugging flaky tests, test architecture (POM, PCOM), and best QA practices.<br><br>⚡ Fun fact<br>I can turn any messy test suite into a fully automated, stable, CI-ready framework — and I actually enjoy doing it 😄
 
 
@@ -28,9 +19,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Amromoussa2211&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
